@@ -1,0 +1,27 @@
+body {
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    background-color: #da2020ff;
+    background: linear-gradient(to right, #da2020ff, #000000ff);
+    text-align: center;
+}
+
+a{
+    color: #ffffffff;
+    text-decoration: none;
+    border: 2px solid #ffffffff;
+    padding: 12px 24px;
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 50px;
+    text-transform: capitalize;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.subtitle {
+    font-size: 20px;
+    margin-top: 40px;
+}
