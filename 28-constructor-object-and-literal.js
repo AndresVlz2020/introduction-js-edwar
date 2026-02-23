@@ -1,5 +1,5 @@
 // El objeto literal
-// Esta es la forma más común, pero nno es muy dinámico que digamos
+// Esta es la forma más común, pero no es muy dinámico que digamos
 // De esta forma el objeto tiene diferentes variables
 
 const product = {
